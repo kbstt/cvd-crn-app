@@ -3026,7 +3026,7 @@ body.dark .drawer-inner{
 .drawer-inner:empty:before{
 	content: "";
 	background-color: inherit;
-	background-image: url(../../img/ripple.svg?v=3);
+	background-image: url(../img/ripple.svg?v=7);
 	z-index: 22;
 	width: 80px;
 	height: 80px;
