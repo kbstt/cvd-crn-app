@@ -1416,7 +1416,7 @@ button.loading:before{
 button.loading:after{
 	content: "";
 	filter:brightness(10);
-	background-image: url(../../assets/img/rolling-white.svg);
+	background-image: url(../../img/rolling-white.svg);
 	background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1619,17 +1619,6 @@ a:hover{color:var(--main-hover);}
 	box-shadow:none !important;
 }
 
-.icon-test-kit:after{
-content: "";
-    width: 25px;
-    height: 25px;
-    background: url(/assets/img/test-kit-grey.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-}
 .map-sidebar{
 	position: fixed;
     z-index: 120;
@@ -1682,7 +1671,7 @@ body .map-sidebar-right-btns > *{
 	display:flex;
 	align-items:center;
 	justify-content:center;
-	background-image: url(../../assets/img/rolling.svg?v=2);
+	background-image: url(../../img/rolling.svg?v=2);
 	background-size: 30px;
     background-repeat: no-repeat;
     background-position: center;
@@ -2404,7 +2393,7 @@ input[type="radio"]:checked ~ label:after{
     content: "";
     height: 40px;
 	border:0px;
-    background-image: url(/assets/img/checkmark-success.svg);
+    background-image: url(/img/checkmark-success.svg);
     font-size: 16px;
 	margin-top:10px;
     background-position: center center;
@@ -2417,7 +2406,7 @@ input[type="radio"]:checked ~ label:after{
     height: 20px;
 	display:block;
 	border:0px;
-    background-image: url(/assets/img/mask-black.png);
+    background-image: url(/img/mask-black.png);
     font-size: 16px;
     background-position: center center;
     background-size: contain;
@@ -2425,7 +2414,7 @@ input[type="radio"]:checked ~ label:after{
 }
 body.dark .feather-mask:after{
 
-    background-image: url(/assets/img/mask-white.png);
+    background-image: url(/img/mask-white.png);
 }
 .header-language-attribution{
 	width:80%;
@@ -2435,7 +2424,7 @@ body.dark .feather-mask:after{
 }
 
 .sign-up-popup-tab[data-forbidden]:after{
-	background-image: url(/assets/img/checkmark-error.svg) !important;
+	background-image: url(/img/checkmark-error.svg) !important;
 }
 .sign-up-popup-tab-inner{
     width: 100%;
@@ -3037,7 +3026,7 @@ body.dark .drawer-inner{
 .drawer-inner:empty:before{
 	content: "";
 	background-color: inherit;
-	background-image: url(../../assets/img/ripple.svg?v=2);
+	background-image: url(../../img/ripple.svg?v=2);
 	z-index: 22;
 	width: 80px;
 	height: 80px;
@@ -4015,7 +4004,7 @@ bottom:23px;
 .coronalytics-container:empty:before{
 		content: "";
 		background-color: inherit;
-		background-image: url(../../assets/img/ripple.svg?v=2);
+		background-image: url(../../img/ripple.svg?v=2);
 		z-index: 22;
 		width: 30px;
 		height: 30px;
