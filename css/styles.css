@@ -1416,7 +1416,7 @@ button.loading:before{
 button.loading:after{
 	content: "";
 	filter:brightness(10);
-	background-image: url(../../img/rolling-white.svg);
+	background-image: url(../img/rolling-white.svg);
 	background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
