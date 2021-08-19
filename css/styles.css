@@ -2393,7 +2393,7 @@ input[type="radio"]:checked ~ label:after{
     content: "";
     height: 40px;
 	border:0px;
-    background-image: url(/img/checkmark-success.svg);
+    background-image: url(../../img/checkmark-success.svg);
     font-size: 16px;
 	margin-top:10px;
     background-position: center center;
@@ -2406,7 +2406,7 @@ input[type="radio"]:checked ~ label:after{
     height: 20px;
 	display:block;
 	border:0px;
-    background-image: url(/img/mask-black.png);
+    background-image: url(../../img/mask-black.png);
     font-size: 16px;
     background-position: center center;
     background-size: contain;
@@ -2414,7 +2414,7 @@ input[type="radio"]:checked ~ label:after{
 }
 body.dark .feather-mask:after{
 
-    background-image: url(/img/mask-white.png);
+    background-image: url(../../img/mask-white.png);
 }
 .header-language-attribution{
 	width:80%;
@@ -2424,7 +2424,7 @@ body.dark .feather-mask:after{
 }
 
 .sign-up-popup-tab[data-forbidden]:after{
-	background-image: url(/img/checkmark-error.svg) !important;
+	background-image: url(../../img/checkmark-error.svg) !important;
 }
 .sign-up-popup-tab-inner{
     width: 100%;
