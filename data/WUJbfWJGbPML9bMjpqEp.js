@@ -1,0 +1,1 @@
+window.dataPlaceHistory["WUJbfWJGbPML9bMjpqEp"] = {"id":"WUJbfWJGbPML9bMjpqEp","country":"CO","invisible":true,"latitude":4.5709,"name":"Unknown Colombia region","lastUpdated":"2020-04-16T23:39:00.000Z","longitude":-74.2973,"history":[{"r":32,"i":0,"day":"20200416","d":0},{"day":"20200415","d":0,"r":41,"i":15}]};
