@@ -1,0 +1,1 @@
+window.dataPlaceHistory["VvNRcHr9FcEHkYOT1mvm"] = {"id":"VvNRcHr9FcEHkYOT1mvm","history":[{"i":1,"d":0,"day":"20200304","r":0},{"d":0,"r":0,"i":1,"day":"20200303"}],"latitude":39.0916,"hide":false,"lastUpdated":"2020-03-04T06:47:30.168Z","longitude":-120.8039,"name":"Placer County, CA","country":"US"};
