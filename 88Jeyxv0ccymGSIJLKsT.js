@@ -1,0 +1,1 @@
+window.dataPlaceHistory["88Jeyxv0ccymGSIJLKsT"] = {"id":"88Jeyxv0ccymGSIJLKsT","hide":false,"longitude":-113.487916,"name":"Edmonton","history":[{"r":0,"i":3,"day":"20200309","d":0},{"d":0,"i":1,"day":"20200308","r":0},{"i":1,"day":"20200307","r":0,"d":0}],"country":"CA","latitude":53.560281,"lastUpdated":"2020-03-09T08:08:46.376Z"};
