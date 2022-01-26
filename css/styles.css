@@ -2625,7 +2625,7 @@ html #iubenda-cs-banner.showing{
     position: fixed;
     bottom: 20px;
     right: 20px;
-    z-index: 999999999999999999999999999999999999999;
+    z-index: 99999;
     font-size: 12px;
 	align-items:center;
 }
