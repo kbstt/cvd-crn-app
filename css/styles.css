@@ -5709,9 +5709,7 @@ body a.benford-a{
 		height: 15px;
 		bottom: 40px;
 		text-align:center;
-		top: 70px;
-		left: 0px;
-		font-size:9px;
+		width:100%;
 	}
 	body.dark .map-modal-header{
 		background: #37383d
