@@ -5710,6 +5710,11 @@ body a.benford-a{
 		bottom: 40px;
 		text-align:center;
 		width:100%;
+		top: 70px;
+		left: 0px;
+		font-size: 9px;
+		margin-left: 0px;
+		padding-left: 0px;
 	}
 	body.dark .map-modal-header{
 		background: #37383d
