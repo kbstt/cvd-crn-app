@@ -1,1 +1,1 @@
-window.dataPlaceHistory["SWOMh49moK80NwP1IAnz"] = {"id":"SWOMh49moK80NwP1IAnz","history":[{"d":0,"i":1,"r":0,"day":"20200306"}],"name":"Serbia","latitude":44.154695,"longitude":20.935766,"lastUpdated":"2020-03-06T15:18:46.423Z","hide":false,"country":"RS"};
+window.dataPlaceHistory["SWOMh49moK80NwP1IAnz"] = {"id":"SWOMh49moK80NwP1IAnz","history":[{"r":0,"d":0,"day":"20200306","i":1}],"name":"Serbia","longitude":20.935766,"country":"RS","hide":false,"lastUpdated":"2020-03-06T15:18:46.423Z","latitude":44.154695};
