@@ -1,1 +1,1 @@
-window.dataPlaceHistory["4OgP2bZeb0AqNDi0CqlT"] = {"id":"4OgP2bZeb0AqNDi0CqlT","history":[{"r":0,"day":"20200311","d":0,"i":6}],"longitude":114.7277,"lastUpdated":"2020-03-11T14:16:06.421Z","name":"Brunei","latitude":4.5353,"hide":false,"country":"BN"};
+window.dataPlaceHistory["4OgP2bZeb0AqNDi0CqlT"] = {"id":"4OgP2bZeb0AqNDi0CqlT","country":"BN","history":[{"day":"20200311","d":0,"i":6,"r":0}],"latitude":4.5353,"hide":false,"lastUpdated":"2020-03-11T14:16:06.421Z","name":"Brunei","longitude":114.7277};
