@@ -1,1 +1,1 @@
-window.dataPlaceHistory["HwQYvDSuTj5fKYgIYIBw"] = {"id":"HwQYvDSuTj5fKYgIYIBw","name":"Washington County, OR","country":"US","latitude":45.528074,"history":[{"i":2,"day":"20200303","r":0,"d":0}],"longitude":-123.0379,"lastUpdated":"2020-03-03T10:27:11.034Z"};
+window.dataPlaceHistory["HwQYvDSuTj5fKYgIYIBw"] = {"id":"HwQYvDSuTj5fKYgIYIBw","lastUpdated":"2020-03-03T10:27:11.034Z","country":"US","latitude":45.528074,"name":"Washington County, OR","history":[{"i":2,"day":"20200303","r":0,"d":0}],"longitude":-123.0379};
