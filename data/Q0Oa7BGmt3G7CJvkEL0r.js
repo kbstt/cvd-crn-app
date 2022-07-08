@@ -1,1 +1,1 @@
-window.dataPlaceHistory["Q0Oa7BGmt3G7CJvkEL0r"] = {"id":"Q0Oa7BGmt3G7CJvkEL0r","country":"US","longitude":-99.450189,"lastUpdated":"2020-03-07T14:37:38.534Z","history":[{"day":"20200307","r":0,"i":1,"d":0}],"hide":false,"name":"Nebraska","latitude":41.459666};
+window.dataPlaceHistory["Q0Oa7BGmt3G7CJvkEL0r"] = {"id":"Q0Oa7BGmt3G7CJvkEL0r","history":[{"i":1,"d":0,"day":"20200307","r":0}],"lastUpdated":"2020-03-07T14:37:38.534Z","country":"US","hide":false,"latitude":41.459666,"longitude":-99.450189,"name":"Nebraska"};
