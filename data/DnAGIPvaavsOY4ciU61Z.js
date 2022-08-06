@@ -1,1 +1,1 @@
-window.dataPlaceHistory["DnAGIPvaavsOY4ciU61Z"] = {"id":"DnAGIPvaavsOY4ciU61Z","history":[{"day":"20200313","i":1,"r":0,"d":0}],"longitude":40.4897,"name":"Ethiopia","lastUpdated":"2020-03-13T17:15:26.651Z","country":"ET","latitude":9.145};
+window.dataPlaceHistory["DnAGIPvaavsOY4ciU61Z"] = {"id":"DnAGIPvaavsOY4ciU61Z","lastUpdated":"2020-03-13T17:15:26.651Z","country":"ET","history":[{"i":1,"day":"20200313","r":0,"d":0}],"name":"Ethiopia","longitude":40.4897,"latitude":9.145};
