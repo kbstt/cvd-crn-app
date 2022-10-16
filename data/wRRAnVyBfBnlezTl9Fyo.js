@@ -1,1 +1,1 @@
-window.dataPlaceHistory["wRRAnVyBfBnlezTl9Fyo"] = {"id":"wRRAnVyBfBnlezTl9Fyo","latitude":41.806472,"history":[{"r":2,"i":4,"day":"20200303","d":0}],"name":"Cook County, IL","country":"US","lastUpdated":"2020-03-03T15:00:24.832Z","longitude":-87.767127};
+window.dataPlaceHistory["wRRAnVyBfBnlezTl9Fyo"] = {"id":"wRRAnVyBfBnlezTl9Fyo","longitude":-87.767127,"country":"US","name":"Cook County, IL","history":[{"r":2,"day":"20200303","d":0,"i":4}],"lastUpdated":"2020-03-03T15:00:24.832Z","latitude":41.806472};
