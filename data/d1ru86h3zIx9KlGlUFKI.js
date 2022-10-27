@@ -1,1 +1,1 @@
-window.dataPlaceHistory["d1ru86h3zIx9KlGlUFKI"] = {"id":"d1ru86h3zIx9KlGlUFKI","name":"Norfolk County, MA","history":[{"day":"20200303","r":0,"i":1,"d":0}],"longitude":-71.067535,"latitude":42.218852,"lastUpdated":"2020-03-03T15:51:12.371Z","country":"US"};
+window.dataPlaceHistory["d1ru86h3zIx9KlGlUFKI"] = {"id":"d1ru86h3zIx9KlGlUFKI","history":[{"i":1,"r":0,"d":0,"day":"20200303"}],"lastUpdated":"2020-03-03T15:51:12.371Z","country":"US","name":"Norfolk County, MA","latitude":42.218852,"longitude":-71.067535};
